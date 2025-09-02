@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 #------------------------------------------------------------------------------
-# Script : instalador.sh
-# Versão : 1.0 (/home/thiago/Documentos/_Projetos/BASH/instalador.sh)
+# Script : instalador_BASH.sh
+# Versão : 1.0 (/home/thiago/Documentos/_Projetos/BASH/instalador_BASH.sh)
 # Autor  : Thiago Condé
 # Data   : 02-09-2025 15:24:32
 # Info   :
