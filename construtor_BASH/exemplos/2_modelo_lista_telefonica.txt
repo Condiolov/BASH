@@ -1,0 +1,9 @@
+<!-- ON MODELO_1 -->
+{NOME} - {TELEFONE}
+<!-- OFF MODELO_1 -->
+
+
+
+<!-- ON MODELO_2 -->
+--> {NOME} | {TELEFONE}
+<!-- OFF MODELO_2 -->
