@@ -11,6 +11,8 @@ O instalador cria links simbólicos para todos os scripts marcados como executá
 
 Se algum link simbólico apontar para um arquivo que não existe mais, ele será automaticamente removido.
 
+Além disso, o instalador cria funções que permitem rodar scripts via source.
+
 ## Pré-requisitos
 
 - Ter instalado o `instalador_BASH.sh` na mesma pasta onde estão os scripts.
@@ -35,11 +37,15 @@ Se algum link simbólico apontar para um arquivo que não existe mais, ele será
 
 ## Uso
 
-Após a instalação, você pode executar seus scripts diretamente pelo nome, como comandos normais. Exemplo:
+Após a instalação, você pode executar seus scripts diretamente pelo nome, como comandos normais no terminal ou scripts ou via source Exemplo:
 ```bash
 meu_script
 criar
 backup
+```
+```bash
+# source ../construtor_BASH.sh #necessario especificar o caminho valido
+source construtor_BASH #sem necessidade de especificar o caminho
 ```
 
 ## Observações
