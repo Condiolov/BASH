@@ -6,6 +6,7 @@
 # Data   : 2022-08-08 12:52:28
 # Info   : usando o echoc vc é capaz de colorir seus echo
 # Requis.:
+# Uso: echoc "<v>Vermelho</v>"
 ####################################################################
 
 # echo -e "\e[42mC\e[0mO\e[43mR\e[0m"
